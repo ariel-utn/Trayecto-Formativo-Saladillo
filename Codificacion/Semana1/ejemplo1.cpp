@@ -1,15 +1,10 @@
-/// Nombre:
-/// TP N°:
-/// EJ N°:
-/// Comentarios:
-
 #include <iostream>
 
 using namespace std;
 
-int main(){
-
-    cout << "HOLA MUNDO";
+int main()
+{
+    cout << "HOLA MUNDO" << endl;
 
     return 0;
 }

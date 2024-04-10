@@ -1,21 +1,25 @@
-/// Nombre:
-/// TP N°:
-/// EJ N°:
-/// Comentarios:
-
 #include <iostream>
 
 using namespace std;
 
 int main(){
 
-    int numero; /// VARIABLE
-    const int numero2 = 0; /// CONSTANTE
+    cout << "DIVISION ENTRE ENTEROS: " << endl;
+    cout << "La division de 5/2 es: " << 5/2 << endl;
 
-    cout << "INGRESE UN NUMERO: ";
-    cin >> numero;
+    /// int/int
 
-    cout << "EL USUARIO INGRESO: " << numero;
+    cout << endl;
+    cout << "DIVISION ENTRE UN FLOTANTE Y UN ENTRO: " << endl;
+    cout << "La division de 5/2 es: " << 5/2.0 << endl;
 
+    /// float/float
+    /// float/int
+    /// int/float
+
+    cout << endl;
+    cout << "RESTO" << endl;
+    cout << "El resto de 5/2 es: " << 5%2 << endl;
+    //cout << "El resto de 5/2 es: " << 5.0%2.0 << endl; /// NO FUNCIONA
     return 0;
 }
