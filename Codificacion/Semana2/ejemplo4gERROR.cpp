@@ -20,7 +20,7 @@ int main(){
 	cout << "Ingrese un numero: ";
 	cin >> num;
 	
-	/// IF ANIDADOS
+	/// UN IF DE SALIDA SIMPLE Y UN IF DE SALIDA DOBLE
 	
 	if(num > 0){
 		cout << "Es positivo" << endl;
