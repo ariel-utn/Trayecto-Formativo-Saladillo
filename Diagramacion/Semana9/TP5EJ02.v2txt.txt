@@ -1,0 +1,5 @@
+Hacer un programa para ingresar una lista de números que finaliza cuando se ingresa un numero 0 y luego
+ 
+a) Informar cuántos de los números ingresados son primos. Se informa 1 resultado al final.
+
+b) Informar cuántos números positivos se ingresaron. Se informa 1 resultado al final.
