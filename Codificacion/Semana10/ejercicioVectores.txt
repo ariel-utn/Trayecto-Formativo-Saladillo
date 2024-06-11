@@ -1,0 +1,11 @@
+Una fábrica dispone de 5 tipos de piezas.
+
+Nos piden hacer un programa donde se carguen las producciones de la fábrica.
+Por cada producción se pide:
+
+- tipo de pieza (1 a 5)
+- cantidad producida.
+
+El programa debe finalizar cuando se ingresa un tipo de pieza igual a cero.
+
+Mostrar, para cada pieza, la cantidad producida.
